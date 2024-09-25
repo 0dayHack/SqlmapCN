@@ -6,5 +6,6 @@ SqlmapCN中文简体汉化版
 ![sqlmap2](https://github.com/user-attachments/assets/7d790255-4ca0-410e-a722-e217d568811b)
 ![sqlmap1](https://github.com/user-attachments/assets/87c393d4-fc69-470f-b762-1c191b24f740)
 
-欢迎师傅们一起入群交流
+欢迎师傅们一起入群交流 反馈有哪些不足
+Vx:Candycat0000(如二维码失效 可联系)
 ![微信图片_20240925150253](https://github.com/user-attachments/assets/b35f4020-a6ff-418d-b06e-caa9f2993f87)
