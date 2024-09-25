@@ -1,5 +1,5 @@
-# SqlmapCN
-SqlmapCN中文简体汉化版
+## SqlmapCN中文简体汉化版
+
 之前用的sqlmap大多都是英文版 然后想了想 搞网安的大多英文都不太好 更何况sqlmap英文参数也很多 于是把最新版下载过来进行手工汉化 汉化的文件基本都在lib文件夹中 翻译的结果取自gpt4o模型给出的翻译结果 
 除了翻译打印出来的输出结果 其它都没动过
 ![sqlmap3](https://github.com/user-attachments/assets/969a6cb4-50ef-48c5-aab1-8d0ec26eb1d7)
